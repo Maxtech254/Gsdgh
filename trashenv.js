@@ -8,7 +8,7 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 global.xprefix = process.env.BOT_PREFIX ||'.'
 global.owner = ["256747122756",]
 global.error = ["6666",]
-global.ownername = process.env.OWNER_NAME ||'MAXTECH 
+global.ownername = process.env.OWNER_NAME ||'MAXTECH' 
 global.antidelete = process.env.ANTI_DELETE || true
 //━━━━━━━━━━━━━━━━━━━━━━━━//
 // Bot Setting
