@@ -332,7 +332,7 @@ contextInfo: {
 forwardingScore: 9,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterJid: "120363322464215140@newsletter",
+newsletterJid: "120363400964601488@newsletter",
 newsletterName: "𝗦𝗔𝗠𝗦𝗨𝗡𝗚_𝗫𝗠𝗗" 
 }
 }
@@ -366,7 +366,7 @@ contextInfo: {
 forwardingScore: 9,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterJid: "120363418618707597@newsletter",
+newsletterJid: "120363400964601488@newsletter",
 newsletterName: "𝗦𝗔𝗠𝗦𝗨𝗡𝗚_𝗫𝗠𝗗"
 }
 }
